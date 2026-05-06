@@ -1,2 +1,2 @@
 # how to build
-./kernel_platform/oplus/build/oplus_build_kernel.sh blair gki
+./kernel_platform/oplus/build/oplus_build_kernel.sh crow gki
